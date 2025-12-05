@@ -1,0 +1,28 @@
+# Core Python packages
+pandas
+numpy
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter environment
+jupyterlab
+ipykernel
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+imbalanced-learn
+
+# Model interpretation
+shap
+
+# Parquet support
+pyarrow
+fastparquet
+
+# Utilities
+tqdm
